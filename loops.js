@@ -10,6 +10,6 @@ for (let i = 0; i < 25; i++) {
   return array
   }
 function whileLoop(100) {
-  while (countdown > 0) 
+  while (countdown > 0)
   console.log(--countdown)
 }
